@@ -1,0 +1,7 @@
+@import "tailwindcss";
+/* tailwind.config.js  or  globals.css */
+@layer utilities {
+  .rotate-360 {
+    transform: rotate(360deg);
+  }
+}
